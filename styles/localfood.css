@@ -1,0 +1,22 @@
+.localfood{
+    display: flex;
+    background-color: #F4F4F4;
+    margin:10px 0px;
+}
+
+.localfood-img{
+    min-height: 450px;
+    max-height: 450px;
+    max-width: 600px;
+    min-width: 600px;
+}
+
+.localfood-content{
+    padding: 20px;
+   
+}
+
+.localfood-content .content p{
+    text-align: justify;
+ 
+}

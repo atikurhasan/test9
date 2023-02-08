@@ -1,0 +1,49 @@
+.header{
+    display: flex;
+    height: 400px;
+    align-items: center;
+    padding-left: 20px;
+    background-image: url("../images/nightphoto.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.header .image-section img{
+    width:600px;
+    height:400px;
+}
+
+.popular-destination{
+    margin-top: 100px;
+}
+
+.destination{
+    display: flex;
+    justify-content: space-around;
+}
+
+.destination-header h2{
+    margin-right:10px;
+}
+
+.destination-header{
+    display: flex;
+    align-items: center;
+}
+
+
+
+.local-heritage{
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.heritage-header{
+    display: flex;
+    align-items: center;
+}
+
+.heritage-header h2{
+    margin-right:10px;
+}
